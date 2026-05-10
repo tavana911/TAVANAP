@@ -1,10 +1,10 @@
-import { Navigation } from "@/components/tavana/Navigation";
-import { Hero } from "@/components/tavana/Hero";
-import { Story } from "@/components/tavana/Story";
-import { Work } from "@/components/tavana/Work";
-import { Process } from "@/components/tavana/Process";
-import { About } from "@/components/tavana/About";
-import { FinalCTA } from "@/components/tavana/FinalCTA";
+import { Navigation } from "../components/tavana/Navigation";
+import { Hero } from "../components/tavana/Hero";
+import { Story } from "../components/tavana/Story";
+import { Work } from "../components/tavana/Work";
+import { Process } from "../components/tavana/Process";
+import { About } from "../components/tavana/About";
+import { FinalCTA } from "../components/tavana/FinalCTA";
 import { useEffect } from "react";
 
 const Index = () => {
