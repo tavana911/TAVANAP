@@ -37,7 +37,7 @@ export const FinalCTA = () => {
         </div>
       </div>
 
-      <footer className="relative max-w-[1400px] mx-auto mt-32 pt-8 border-t border-border/50 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] tracking-cinema text-muted-foreground">
+<footer id="socials" className="relative max-w-[1400px] mx-auto mt-32 pt-8 border-t border-border/50 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] tracking-cinema text-muted-foreground">
         <div className="flex items-center gap-3">
           <img
             src={tavanaLogo}
