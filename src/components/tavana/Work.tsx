@@ -4,8 +4,17 @@ import w3 from "@/assets/work-3.jpg";
 import w4 from "@/assets/work-4.jpg";
 import w5 from "@/assets/work-5.jpg";
 import w6 from "@/assets/work-6.jpg";
+import w7 from "@/assets/work-7.png";
 
 const projects = [
+  {
+    src: w7,
+    title: "High-Retention Reels",
+    category: "Post-Production Services. · Video Editor",
+    year: "2026",
+    span: "md:col-span-6",
+    href: "https://drive.google.com/file/d/1rVHmLMLEQdIDKZt1jQgwvA2AwBLPGQyi/view?usp=drive_link",
+  },
   {
     src: w1,
     title: "SAM'S CORPORATE SERVICES (SCS)",
